@@ -1,4 +1,3 @@
-# competitive-programming
 # AlgoLib: Competitive Programming & Algorithmic Base
 
 ![C++](https://img.shields.io/badge/C++-17/20-blue.svg)
